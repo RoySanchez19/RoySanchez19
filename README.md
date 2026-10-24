@@ -8,7 +8,7 @@ I build web applications and am developing my skills in backend systems and clou
 
 - [Personal engineering site](https://github.com/RoySanchez19/roysanchez.dev): a static Astro portfolio and engineering writeups.
 - [student-deadlines](https://github.com/RoySanchez19/student-deadlines): an early Java/Spring Boot and PostgreSQL learning project. See the README for the current scope.
-- [CRUD-1-JS](https://github.com/RoySanchez19/CRUD-1-JS): an earlier vanilla JavaScript CRUD exercise.
+- [CRUD-1-JS](https://github.com/RoySanchez19/CRUD-1-JS): an earlier vanilla JavaScript exercise for adding, listing, and deleting sample products.
 
 I welcome focused technical feedback and conversations with other students and engineers.
 
